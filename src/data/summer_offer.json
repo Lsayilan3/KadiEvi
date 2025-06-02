@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "price": "$350",
+    "roomTitle": "Standard Room",
+    "regularPrice": "$550",
+    "offerPrice":"$350",
+    "rating": "100",
+    "offcerPercents": "50%",
+    "image": "assets/images/bg/offer-img-12.png",
+    "home3Image":"assets/images/bg/h3-offer2.png",
+    "url":"room-suits1"
+  },
+  {
+    "id": 2,
+    "price": "$350",
+    "roomTitle": "Superior Room",
+    "regularPrice": "$550",
+    "rating": "80",
+    "offerPrice":"$350",
+    "offcerPercents": "30%",
+    "image": "assets/images/bg/offer-img-13.png",
+    "home3Image":"assets/images/bg/h3-offer3.png",
+    "url":"room-suits2"
+  },
+  {
+    "id": 3,
+    "price": "$30",
+    "regularPrice": "$550",
+    "rating": "85",
+    "offerPrice":"$350",
+    "roomTitle": "Standard Room",
+    "offcerPercents": "40%",
+    "image": "assets/images/bg/offer-img-11.png",
+    "home3Image":"assets/images/bg/h3-offer1.png",
+    "url":"room-suits3"
+  },
+  {
+    "id": 4,
+    "price": "$30",
+    "regularPrice": "$550",
+    "rating": "85",
+    "offerPrice":"$350",
+    "roomTitle": "Standard Room",
+    "offcerPercents": "20%",
+    "image": "assets/images/bg/offer-img-11.png",
+    "home3Image":"assets/images/bg/h3-offer1.png",
+    "url":"room-suits4"
+  }
+
+
+
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/room21.png",
+    "home2Image": "assets/images/bg/room7.png",
+    "price": "$350",
+    "roomTitle": "Familly Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/room22.png",
+    "home2Image": "assets/images/bg/room8.png",
+    "price": "$350",
+    "roomTitle": "Superior Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/room23.png",
+    "home2Image": "assets/images/bg/room9.png",
+    "price": "$350",
+    "roomTitle": "Junior Suite",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/room24.png",
+    "price": "$350",
+    "roomTitle": "Standard Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/room25.png",
+    "price": "$351",
+    "roomTitle": "Luxury Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/room26.png",
+    "price": "$350",
+    "roomTitle": "Superior Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/bg/room27.png",
+    "price": "$380",
+    "roomTitle": "Sea View",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 8,
+    "image": "assets/images/bg/room28.png",
+    "price": "$180",
+    "roomTitle": "Luxury Suite",
+    "numberOfRooms": "3 Double Bed",
+    "numberOfGuest": "6 Guest"
+  },
+  {
+    "id": 9,
+    "image": "assets/images/bg/room29.png",
+    "price": "$550",
+    "roomTitle": "Grand Suite Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "6 Guest"
+  },
+  {
+    "id": 10,
+    "image": "assets/images/bg/room210.png",
+    "price": "$350",
+    "roomTitle": "Double Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "4 Guest"
+  },
+  {
+    "id": 11,
+    "image": "assets/images/bg/room211.png",
+    "price": "$450",
+    "roomTitle": "Family Special",
+    "numberOfRooms": "3 Double Bed",
+    "numberOfGuest": "8 Guest"
+  },
+  {
+    "id": 12,
+    "image": "assets/images/bg/room212.png",
+    "price": "$150",
+    "roomTitle": "Premium Room",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest": "2 Guest"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "date": "July 19, 2022",
+    "image": "assets/images/blog/blog-grid-1.png",
+    "home2Image":"assets/images/blog/blog4.png",
+    "home3image":"assets/images/bg/room10.png",
+    "price":"$150",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest":"8  Guest",
+    
+    "descrition":"Hotel ut nisl quam nestibulum ac quam necarl ligula. Orci varius natoque penatibus ethemen magnis discustent parturient.",
+    "category": "Hotel",
+    "title": "Ullamcorper Sapien Sed Ton Efficitur Enim.",
+    "title2": "Deluxe Room"
+  },
+  {
+    "id": 2,
+    "price":"$150",
+    "date": "July 12, 2022",
+    "image": "assets/images/blog/blog-grid-2.png",
+    "home3image":"assets/images/bg/room11.png",
+    "category": "Delux",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest":"8  Guest",
+    "home2Image":"assets/images/blog/blog5.png",
+    "descrition":"Hotel ut nisl quam nestibulum ac quam necarl ligula. Orci varius natoque penatibus ethemen magnis discustent parturient.",
+    "title": "Aenean Quis Nisl Pretiuman Nibh Accumsan.",
+    "title2": "Family Room"
+
+  },
+  {
+    "id": 3,
+    "date": "July 13, 2022",
+    "price":"$150",
+    "image": "assets/images/blog/blog-grid-3.png",
+    "home3image":"assets/images/bg/room12.png",
+    "category": "Luxury",
+    "numberOfRooms": "2 Double Bed",
+    "numberOfGuest":"8  Guest",
+    "title": "Veryes Elementum Sesuren Then Aucan Vestibu.",
+    "title2": "Duble Room"
+  },
+  {
+    "id": 4,
+    "date": "July 14, 2022",
+    "image": "assets/images/blog/blog-grid-4.png",
+    "category": "Suits",
+    "title": "Fusce Id Arcu A Risusa Thol Lobortis Convallis.",
+    "title2": "Deluxe Room"
+  },
+  {
+    "id": 5,
+    "date": "July 15, 2022",
+    "image": "assets/images/blog/blog-grid-5.png",
+    "category": "Superior",
+    "title": "Cras Porttitor Est Nequegor Eu Malesuada Libero.",
+    "title2": "Deluxe Room"
+  },
+  {
+    "id": 6,
+    "date": "July 16, 2022",
+    "image": "assets/images/blog/blog-grid-6.png",
+    "category": "Standard",
+    "title": "Nulla Quam Nisl, Euismodal Quis Rutrum Inpelle.",
+    "title2": "Deluxe Room"
+  },
+  {
+    "id": 7,
+    "date": "July 17, 2022",
+    "image": "assets/images/blog/blog-grid-7.png",
+    "category": "Sea View",
+    "title": "Molestie Eros Quisque Thor Ullamcorper Elit In."
+  },
+  {
+    "id": 8,
+    "date": "July 18, 2022",
+    "image": "assets/images/blog/blog-grid-8.png",
+    "category": " Grand Suite",
+    "title": "Libero Ipsum Eleifend Odiol A Fringilla Nisl Odio."
+  },
+  {
+    "id": 9,
+    "date": "July 19, 2022",
+    "image": "assets/images/blog/blog-grid-9.png",
+    "category": "Premium",
+    "title": "Nam Id Sapien Suscipit Won Ullamcorper Lectus Et."
+  },
+  {
+    "id": 10,
+    "date": "July 20, 2022",
+    "image": "assets/images/blog/blog-grid-10.png",
+    "category": "Wellness",
+    "title": "Veryes Elementum Sesuren Then Aucan Vestibu."
+  },
+  {
+    "id": 11,
+    "date": "July 20, 2022",
+    "image": "assets/images/blog/blog-grid-11.png",
+    "category": "Resort",
+    "title": "Orci Varius Natoque Parturi Penatibus Et Magnis."
+  },
+  {
+    "id": 12,
+    "date": "July 22, 2022",
+    "image": "assets/images/blog/blog-grid-12.png",
+    "category": "Hotel",
+    "title": "Ornare Tortor Diam Atultra Posuere Nunc Ces In."
+  },
+  {
+    "id": 13,
+    "date": "July 22, 2022",
+    "image": "assets/images/blog/h5-blog1.png",
+    "category": "Hotel",
+    "authorName": "Angrol Bee",
+    "authorPhoto": "assets/images/blog/h5-blog-author1.png",
+    "title": "Veryes Elementum Venopi Sesureni Then Auca."
+  },
+  {
+    "id": 14,
+    "date": "July 22, 2022",
+    "image": "assets/images/blog/h5-blog2.png",
+    "category": "Hotel",
+    "authorName": "Angrol Bee",
+    "authorPhoto": "assets/images/blog/h5-blog-author2.png",
+    "title": "Mauris Ac Urna Et Justold Eleifend Tincidunt."
+  },
+  {
+    "id": 15,
+    "date": "July 22, 2022",
+    "image": "assets/images/blog/h5-blog3.png",
+    "category": "Hotel",
+    "authorName": "Angrol Bee",
+    "authorPhoto": "assets/images/blog/h5-blog-author3.png",
+    "title": "Proin Interdum Consequat Diam, Non Finibus."
+   
+  }
+]

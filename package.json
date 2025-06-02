@@ -1,0 +1,35 @@
+{
+  "name": "hotelina-next",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Egenslab",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "formik": "^2.4.6",
+    "next": "^12.3.4",
+    "react": "17.0.2",
+    "react-countup": "^6.3.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "17.0.2",
+    "react-intl": "^6.6.8",
+    "react-modal-video": "^1.2.8",
+    "react-select": "^5.4.0",
+    "react-toastify": "^11.0.1-react17",
+    "swiper": "^8.3.2",
+    "yet-another-react-lightbox": "^2.0.3",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  }
+}

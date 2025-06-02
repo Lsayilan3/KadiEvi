@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "image":"assets/images/bg/facilities-5.png",
+        "category":"LOCKER ROOM",
+        "title":"Efficitur Sit Amet Duis Mollis Nibh Vitae Libero.",
+        "details":"Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci the aucan ligula. Orci varius natoque penatibus ethemen magnis disc Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci parturient monte nascete ridiculus musclineorto"
+    },
+    {
+        "id": 2,
+        "image":"assets/images/bg/facilities-2.png",
+        "category":"RESTAURANT",
+        "title":"Curabitur Scelerisque Lacus Ac Nisl Bibendum Tristique.",
+        "details":"Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci the aucan ligula. Orci varius natoque penatibus ethemen magnis disc Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci parturient monte nascete ridiculus musclineorto"
+    }
+    ,
+    {
+        "id": 3,
+        "image":"assets/images/bg/facilities-3.png",
+        "category":"CAR PARKING",
+        "title":"Malesuada Nisi Nec Urna Kular Imperdiet Posuere.",
+        "details":"Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci the aucan ligula. Orci varius natoque penatibus ethemen magnis disc Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci parturient monte nascete ridiculus musclineorto"
+    }
+    ,
+    {
+        "id": 4,
+        "image":"assets/images/bg/facilities-4.png",
+        "category":"GYM CENTER",
+        "title":"Vestibulum Sem Mauris Ultriciei Consectetur Et Et.",
+        "details":"Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci the aucan ligula. Orci varius natoque penatibus ethemen magnis disc Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci parturient monte nascete ridiculus musclineorto"
+    }
+    ,
+    {
+        "id": 5,
+        "image":"assets/images/bg/facilities-1.png",
+        "category":"SPA & BEAUTY",
+        "title":"Acinia Ante Est Nec Metus Metu Vestibulum Ac Nunc.",
+        "details":"Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci the aucan ligula. Orci varius natoque penatibus ethemen magnis disc Hotel ut nisl quam nestibulum ac quam nec odio elementum oneni sci parturient monte nascete ridiculus musclineorto"
+    }
+]

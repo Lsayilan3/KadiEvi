@@ -1,0 +1,3 @@
+# Proje start: npm run dev
+# Proje build : npm run build
+# Proje test  : npm run export hata verirse package.json dosyasındaki "scripts" kısmına "export": "next export" ekleyin
