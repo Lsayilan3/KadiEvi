@@ -40,7 +40,7 @@ function Footer({ name  }) {
                                     children: [
                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h4", {
                                             children: [
-                                                " Kadıevi ",
+                                                " Kadievi ",
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_intl__WEBPACK_IMPORTED_MODULE_3__.FormattedMessage, {
                                                     id: "suitHouseK",
                                                     values: {
@@ -51,7 +51,7 @@ function Footer({ name  }) {
                                         }),
                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                             children: [
-                                                " Kadıevi ",
+                                                " Kadievi ",
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_intl__WEBPACK_IMPORTED_MODULE_3__.FormattedMessage, {
                                                     id: "footerAciklama",
                                                     values: {
@@ -360,9 +360,9 @@ function Footer({ name  }) {
                                         " ",
                                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {
                                             href: "/",
-                                            children: "Kadıevi"
+                                            children: "Kadievi"
                                         }),
-                                        " | Kadıevi Suit & Evleri "
+                                        " | Kadievi Suit & Evleri "
                                     ]
                                 })
                             })

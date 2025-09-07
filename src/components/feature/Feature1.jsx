@@ -60,18 +60,18 @@ function Feature1({name}) {
               <FormattedMessage id="gunlukTurlar" values={{ name }}/>
               </button>
             </li>
-            <li className="col-md-3 col-sm-4 col-6 nav-item" role="presentation">
+            {/* <li className="col-md-3 col-sm-4 col-6 nav-item" role="presentation">
               <button className="nav-link feature-items" id="pills-parking-tab" data-bs-toggle="tab" data-bs-target="#pills-parking" type="button" role="tab" aria-controls="pills-parking-tab" aria-selected="false">
               <svg width={50} height={50} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M171.3 96L224 96l0 96-112.7 0 30.4-75.9C146.5 104 158.2 96 171.3 96zM272 192l0-96 81.2 0c9.7 0 18.9 4.4 25 12l67.2 84L272 192zm256.2 1L428.2 68c-18.2-22.8-45.8-36-75-36L171.3 32c-39.3 0-74.6 23.9-89.1 60.3L40.6 196.4C16.8 205.8 0 228.9 0 256L0 368c0 17.7 14.3 32 32 32l33.3 0c7.6 45.4 47.1 80 94.7 80s87.1-34.6 94.7-80l130.7 0c7.6 45.4 47.1 80 94.7 80s87.1-34.6 94.7-80l33.3 0c17.7 0 32-14.3 32-32l0-48c0-65.2-48.8-119-111.8-127zM434.7 368a48 48 0 1 1 90.5 32 48 48 0 1 1 -90.5-32zM160 336a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"/></svg>
               <FormattedMessage id="cipSafari" values={{ name }}/>
               </button>
-            </li>
-            <li className="col-md-3 col-sm-4 col-6 nav-item" role="presentation">
+            </li> */}
+            {/* <li className="col-md-3 col-sm-4 col-6 nav-item" role="presentation">
               <button className="nav-link feature-items" id="pills-locker-tab" data-bs-toggle="tab" data-bs-target="#pills-locker" type="button" role="tab" aria-controls="pills-locker-tab" aria-selected="true">
               <svg width={50} height={50}  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M465.4 409.4l87.1-150.2-32-.3-55.1 95L259.2 0 23 407.4l32 .3L259.2 55.6zm-355.3-44.1h32.1l117.4-202.5L463 511.9l32.5 .1-235.8-404.6z"/></svg>
                 <FormattedMessage id="semazenTuru" values={{ name }}/>
               </button>
-            </li>
+            </li> */}
             <li className="col-md-3 col-sm-4 col-6 nav-item" role="presentation">
               <button className="nav-link feature-items" id="pills-transport-tab" data-bs-toggle="tab" data-bs-target="#pills-transport" type="button" role="tab" aria-controls="pills-transport-tab" aria-selected="false">
                 <svg width={50} height={50} viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">

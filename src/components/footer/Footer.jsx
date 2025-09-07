@@ -11,8 +11,8 @@ function Footer({ name }) {
       <div className="row g-4 justify-content-start">
         <div className="col-lg-4 order-lg-0 order-2">
           <div className="footer-items footer-about">
-            <h4> Kadıevi <FormattedMessage id="suitHouseK" values={{ name }}/></h4>
-            <p> Kadıevi <FormattedMessage id="footerAciklama" values={{ name }}/></p>
+            <h4> Kadievi <FormattedMessage id="suitHouseK" values={{ name }}/></h4>
+            <p> Kadievi <FormattedMessage id="footerAciklama" values={{ name }}/></p>
             <div className="footer-btn">
               <a className="popup-youtube" target="_blank" rel="noreferrer" href="https://maps.app.goo.gl/F6w9jCmdr3L8mNZB7"><FormattedMessage id="siteHaritamiz" values={{ name }} /><i className="bi bi-chevron-right" /></a>
               {/* <a href="#">Legal Notice</a> */}
@@ -92,7 +92,7 @@ function Footer({ name }) {
       <div className="container">
         <div className="row g-4">
             <div className="devlopar-area">
-            <p><FormattedMessage id="telif" values={{ name }} /> 2025 - {currentYear}{" "} <Link href="/">Kadıevi</Link> | Kadıevi Suit & Evleri </p>
+            <p><FormattedMessage id="telif" values={{ name }} /> 2025 - {currentYear}{" "} <Link href="/">Kadievi</Link> | Kadievi Suit & Evleri </p>
           </div>
         </div>
       </div>

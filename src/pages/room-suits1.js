@@ -139,9 +139,9 @@ function RoomSuits1() {
   return (
     <>
       <Head>
-        <title>{meta.title || '2+1 Evler - Kadıevi Suits & Houses Otel'}</title>
+        <title>{meta.title || '2+1 Evler - Kadievi Suits & Houses Otel'}</title>
         <meta name="description" content={meta.description || '1860 Kadievi Ürgüp otel, Kapadokya otel, 2+1 ev, 1+1 ev, Deluxe Suit. Kapadokya nın Kalbinde Tarihle İç İçe Bir Konaklama.'} />
-        <meta property="og:title" content={meta.title || '2+1 Evler - Kadıevi Suits & Houses Otel'} />
+        <meta property="og:title" content={meta.title || '2+1 Evler - Kadievi Suits & Houses Otel'} />
         <meta property="og:description" content={meta.description || '1860 Kadievi Ürgüp otel, Kapadokya otel, 2+1 ev, 1+1 ev, Deluxe Suit. Kapadokya nın Kalbinde Tarihle İç İçe Bir Konaklama.'} />
         <script
           type="application/ld+json"
@@ -149,8 +149,8 @@ function RoomSuits1() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LodgingBusiness",
-              "name": "Kadıevi Suits & Houses Otel",
-              "description": meta.description || 'Kadıevi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 Ürgüp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.',
+              "name": "Kadievi Suits & Houses Otel",
+              "description": meta.description || 'Kadievi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 Ürgüp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.',
               "url": "https://cevatzadedental.com",
               "contactPoint": {
                 "@type": "ContactPoint",

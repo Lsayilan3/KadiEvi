@@ -94,7 +94,7 @@ function Bannere1({data}) {
 
             <div className="hero-content">
               <h4>{anasayfaData.aciklama}</h4>
-              <h1>Kadıevi Suites & Houses.</h1>
+              <h1>Kadievi Suites & Houses.</h1>
             </div>
             <div className="scroll-dowm">
               <a href="#about-area"><img src="assets/images/icons/scroll-down.svg" alt="" /></a>

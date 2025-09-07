@@ -32,7 +32,7 @@ function Preloader() {
             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {
                 children: [
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("title", {
-                        children: meta.title || "Anasayfa - Kadıevi Suits & Houses Otel"
+                        children: meta.title || "Anasayfa - Kadievi Suits & Houses Otel"
                     }),
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("meta", {
                         name: "description",
@@ -40,7 +40,7 @@ function Preloader() {
                     }),
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("meta", {
                         property: "og:title",
-                        content: meta.title || "Anasayfa - Kadıevi Suits & Houses Otel"
+                        content: meta.title || "Anasayfa - Kadievi Suits & Houses Otel"
                     }),
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("meta", {
                         property: "og:description",
@@ -52,8 +52,8 @@ function Preloader() {
                             __html: JSON.stringify({
                                 "@context": "https://schema.org",
                                 "@type": "LodgingBusiness",
-                                "name": "Kadıevi Suits & Houses Otel",
-                                "description": meta.description || "Kadıevi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 \xdcrg\xfcp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.",
+                                "name": "Kadievi Suits & Houses Otel",
+                                "description": meta.description || "Kadievi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 \xdcrg\xfcp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.",
                                 "url": "https://cevatzadedental.com",
                                 "contactPoint": {
                                     "@type": "ContactPoint",

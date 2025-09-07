@@ -18,9 +18,9 @@ function About() {
   return (
     <>
       <Head>
-        <title>{meta.title || 'Hakkımızda - Kadıevi Suits & Houses Otel'}</title>
+        <title>{meta.title || 'Hakkımızda - Kadievi Suits & Houses Otel'}</title>
         <meta name="description" content={meta.description || 'Şirketimizin hakkında bilgileri, vizyonu ve misyonunu öğrenin.'} />
-        <meta property="og:title" content={meta.title || 'Hakkımızda - Kadıevi Suits & Houses Otel'} />
+        <meta property="og:title" content={meta.title || 'Hakkımızda - Kadievi Suits & Houses Otel'} />
         <meta property="og:description" content={meta.description || 'Şirketimizin hakkında bilgileri, vizyonu ve misyonunu öğrenin.'} />
         <script
           type="application/ld+json"
@@ -28,8 +28,8 @@ function About() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LodgingBusiness",
-              "name": "Kadıevi Suits & Houses Otel",
-              "description": meta.description || 'Kadıevi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 Ürgüp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.',
+              "name": "Kadievi Suits & Houses Otel",
+              "description": meta.description || 'Kadievi Suits & Houses Otel iletişim bilgileri:  Tevfik Fikret Caddesi No:11 50400 Ürgüp / Nevşehir, 50100. Email: info@kadievi.com, +90 532 3150128 / +90 384 3418866.',
               "url": "https://cevatzadedental.com",
               "contactPoint": {
                 "@type": "ContactPoint",
